@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub profile.
+
+I'm Favour Ogbonda, a student at the University of Port Harcourt and in my final year. I'm a programmer and I'm currently learning back-end web development. I can build front-end web projects, in general i'm aiming to become a full-stack web developer. Asides coding I am also a technical writer. I have written a few articles for publications and companies like Smashing Magazine and OpenReplay. Checkout my repo for anything that interests you as long as it's available publicly. This profile is subject to change or update as time goes by. LOL
+
+<a href="https://www.twitter.com/@FlynnFavour">
+  <img align="left"src="https://custom-icon-badges.demolab.com/badge/follow_me-blue?logo=twitter&logoColor=fff" alt="twitter"/>
+</a>
+<img src="https://custom-icon-badges.demolab.com/badge/follow_me-blue?logo=linkedin&logoColor=fff" alt="twitter"/>
 
 <!--
 **D-FOG/D-FOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
