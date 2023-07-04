@@ -14,10 +14,10 @@ I'm Favour Ogbonda, a student at the University of Port Harcourt and in my final
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/>
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
-  <img align="left" src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" alt="node.js" width="40" height="40"/>
-  <img align="left" src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="node.js" width="70" height="70"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40" style="color: white;"/>
   <img align="left" src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img align="left" src="https://cdn.freebiesupply.com/logos/thumbs/2x/mongodb-logo.png" alt="mongodb" width="40" height="40"/>
+  <img align="left" src="https://assets.stickpng.com/images/58481021cef1014c0b5e494b.png" alt="mongodb" width="40" height="40"/>
 </details>
 
 <!--
