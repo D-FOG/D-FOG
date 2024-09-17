@@ -47,6 +47,14 @@ I'm Favour Ogbonda, a student at the University of Port Harcourt and in my final
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
+[Listen to my playlist on Spotify](https://open.spotify.com/embed/playlist/6gQdRZNrvXD9WnvoKJjdKw?utm_source=generator)
+
+
+<!-- <p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
+
+https://open.spotify.com/user/89018rqysq1xfvsqfc9mp7jzs?si=9add036cf06f4124 -->
 
 <!--
 **D-FOG/D-FOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
