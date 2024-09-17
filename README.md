@@ -48,6 +48,9 @@ I'm Favour Ogbonda, a student at the University of Port Harcourt and in my final
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 [Listen to my playlist on Spotify](https://open.spotify.com/embed/playlist/6gQdRZNrvXD9WnvoKJjdKw?utm_source=generator)
+# My Spotify Playlist
+
+[![Listen to my playlist](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dfsu704-35f86d90-74dc-40ca-a6e6-a488bd7ea1c3.jpg)](https://open.spotify.com/playlist/15mGnAJpA8v0e2h8Q2OTAU?si=7099cf5f4ea945f9)
 
 
 <!-- <p align="left">
