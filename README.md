@@ -19,10 +19,10 @@ I'm Favour Ogbonda, a student at the University of Port Harcourt and in my final
 </a> -->
 
 ![D-FOG's Statistics](https://github-readme-stats.vercel.app/api?username=D-FOG&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-![D-FOG's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=d-fog&theme=slateorange&hide_border=true)
+![D-FOG's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=d-fog&theme=coral&hide_border=true)
 ![D-FOG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-fog&theme=slateorange&show_icons=true&hide_border=true&layout=compact)<br>
 
-
+<!-- ![Manuel-co's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manuel-co&theme=slateorange&hide_border=true) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=d-fog&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 ### 🧰 Favorite Tools
