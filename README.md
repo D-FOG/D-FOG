@@ -1,0 +1,60 @@
+### Hi there 👋 Welcome to my GitHub profile
+I'm Favour Ogbonda, a student at the University of Port Harcourt and in my final year. I'm a programmer and I'm currently learning back-end web development. I can build front-end web projects, in general i'm aiming to become a full-stack web developer. Asides coding I am also a technical writer. I have written a few articles for publications and companies like Smashing Magazine and OpenReplay. Checkout my repo for anything that interests you as long as it's available publicly. This profile is subject to change or update as time goes by. LOL
+
+#### Reach out to me on:
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/) &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/FlynnFavour) &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://ng.linkedin.com/in/favour-ogbonda-612a94231) &nbsp; 
+<a href="mailto:ogbondafavour9@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
+ <!-- &nbsp; 
+<a href="https://twitter.com/FlynnFavour">
+  <img align="left" src="https://custom-icon-badges.demolab.com/badge/follow_me-blue?logo=twitter&logoColor=fff" alt="twitter"/>
+</a> -->
+
+
+
+<!-- <a href="https://ng.linkedin.com/in/favour-ogbonda-612a94231">
+  <img src="https://custom-icon-badges.demolab.com/badge/follow_me-blue?logo=linkedin&logoColor=fff" alt="linkedin"/>
+</a> -->
+
+![D-FOG's Statistics](https://github-readme-stats.vercel.app/api?username=D-FOG&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![D-FOG's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=d-fog&theme=slateorange&hide_border=true)
+![D-FOG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-fog&theme=slateorange&show_icons=true&hide_border=true&layout=compact)<br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=d-fog&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
+### 🧰 Favorite Tools
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=Three.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTMX](https://img.shields.io/badge/Htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=Alpine.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shields.io-black?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+
+<!--
+**D-FOG/D-FOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
