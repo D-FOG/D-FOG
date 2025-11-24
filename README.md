@@ -20,7 +20,7 @@ I'm Favour Ogbonda, a student at the University of Port Harcourt and in my final
 
 ![D-FOG's Statistics](https://github-readme-stats.vercel.app/api?username=D-FOG&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats-orpin-delta.vercel.app?user=d-fog)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-orpin-delta.vercel.app?user=d-fog&theme=dark)](https://git.io/streak-stats)
 ![D-FOG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-fog&theme=slateorange&show_icons=true&hide_border=true&layout=compact)<br>
 
 <!-- ![Manuel-co's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manuel-co&theme=slateorange&hide_border=true) -->
