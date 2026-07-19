@@ -25,7 +25,7 @@ Feel free to explore my repositories—most of them document my learning journey
 
 ## 📊 GitHub Statistics
 
-![D-FOG's Statistics](https://github-readme-stats.vercel.app/api?username=D-FOG&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![D-FOG's Statistics](https://github-stats-extended-frontend-six-lake.vercel.app/api?username=D-FOG&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔥 GitHub Streak
 
