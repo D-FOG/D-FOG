@@ -1,8 +1,8 @@
 # Hi there 👋 Welcome to my GitHub profile
 
-I'm **Favour Ogbonda**, a final-year Computer Science student at the **University of Port Harcourt, Nigeria**.
+I'm **Favour Ogbonda**, a Computer Science Graduate from the **University of Port Harcourt, Nigeria**.
 
-I'm a **Backend Engineer** passionate about designing scalable APIs, cloud infrastructure, and software systems. While backend engineering is my primary focus, I also enjoy building full-stack applications whenever the project calls for it.
+I'm a **Backend Engineer** I love designing scalable APIs, cloud infrastructure, and software systems. While backend engineering is my primary focus, I also enjoy building full-stack applications whenever the project calls for it.
 
 I'm currently deepening my knowledge of **Backend Engineering**, **Cloud Computing**, **Distributed Systems**, **AI**, and **Computer Science**, with the long-term goal of building reliable software that can operate at scale.
 
