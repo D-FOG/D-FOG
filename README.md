@@ -31,13 +31,13 @@ Feel free to explore my repositories—most of them document my learning journey
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=D-FOG&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-FOG&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-stats-extended-frontend-six-lake.vercel.app/api/top-langs?username=D-FOG&langs_count=9&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=D-FOG&theme=tokyonight&row=1&column=6&margin-w=20&margin-h=20&no-frame=true&no-bg=true)](https://github.com/D-FOG)
+[![trophy](https://github-profile-trophy-one-snowy.vercel.app/?username=D-FOG&theme=tokyonight&row=1&column=6&margin-w=20&margin-h=20&no-frame=true&no-bg=true)](https://github.com/D-FOG)
 
 ---
 
