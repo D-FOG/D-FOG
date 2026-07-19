@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋 Welcome to my GitHub profile
 
 I'm **Favour Ogbonda**, a final-year Computer Science student at the **University of Port Harcourt, Nigeria**.
@@ -75,4 +74,3 @@ When I'm building or learning something new, there's a good chance this playlist
 ---
 
 > *"Programs are written for humans to read, and only incidentally for machines to execute."* — Harold Abelson
-```
