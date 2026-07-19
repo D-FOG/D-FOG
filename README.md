@@ -8,7 +8,7 @@ I'm currently deepening my knowledge of **Backend Engineering**, **Cloud Computi
 
 Outside programming, I'm also a **Technical Writer** and have written articles for publications such as **Smashing Magazine** and **OpenReplay**.
 
-Feel free to explore my repositories—most of them document my learning journey, experiments, and projects as I continue growing as an engineer.
+Feel free to explore my repositories, most of them document my learning journey, experiments, and projects as I continue growing as an engineer.
 
 ---
 
